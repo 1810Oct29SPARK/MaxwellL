@@ -1,0 +1,15 @@
+Theme: Anime
+
+User cases:
+1.Watch movies, tv shows
+2.Play games
+3.Submit/sign newsletter
+4.shopping
+5.submit info
+6.Chat
+7.Comments,
+8.Ratings
+9.Event calender
+10.Sign up for events
+11.Raffle
+12.Search
