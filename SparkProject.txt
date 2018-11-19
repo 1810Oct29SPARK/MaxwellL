@@ -1,15 +1,17 @@
-Theme: Anime
+Theme: Intro to Anime
 
 User cases:
-1.Watch movies, tv shows
+1.Watch movies
 2.Play games
-3.Submit/sign newsletter
-4.shopping
-5.submit info
-6.Chat
-7.Comments,
-8.Ratings
-9.Event calender
-10.Sign up for events
-11.Raffle
-12.Search
+3.Event Calender
+4.Submit/sign newsletter
+5.shopping
+6.Forum
+7.TV shows
+
+Comments
+Ratings
+Event calender
+Sign up for events
+Raffle
+Search
